@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# My files
+copied_jsp
+infradb
+war_file
+.idea
